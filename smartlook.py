@@ -9,8 +9,8 @@ import time
 import sys
 
 reload(sys)
-user = 'gabriel.cueto@granplan.com'
-pwd = 'Granplan10'
+user = ''
+pwd = ''
 smartlook_login = 'https://www.smartlook.com/es/app/sign/in'
 smartlook_dashboard = 'https://www.smartlook.com/app/dashboard'
 final_links = []
